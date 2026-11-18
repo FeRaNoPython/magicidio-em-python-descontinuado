@@ -1,0 +1,3 @@
+- O jogo original foi descontinuado, por isso menu_principal.py está incompleto e a função está como comentário
+- Para trocar alguma magia por Reflexão, troque em magias.py, alguma magia do dicionário magias todo conteúdo de uma chave pela chave da magia que quer colocar, como trocar Barreira por Reflexão em toda chave
+- Para os dois jogadores jogarem **localmente**, troque os nomes de mago e jogador dos MAGO_CASA e MAGO_VISITANTE
